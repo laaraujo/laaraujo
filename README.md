@@ -1,6 +1,6 @@
 ## Just a dev (he/him/his)
 
-I write code (usually in Python and/or Javascript), build web apps (mostly with Django and Vue) and have relevant Tech Lead, SRE, DevOps and SysOps experience.
+I write code (usually in Python and/or Javascript), build web apps and have relevant Lead, SRE and DevOps experience.
 
 **Chaos Engineering** and **Remote Culture** enthusiast.
 
