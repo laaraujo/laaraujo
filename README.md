@@ -1,4 +1,4 @@
-## Just a dev (he/him/his)
+## Just a dev
 
 I write code (usually in Python and/or Javascript), build web apps and have relevant Lead, SRE and DevOps experience.
 
