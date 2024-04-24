@@ -1,11 +1,11 @@
 ## Just a dev
 
-I write code (usually in Python and/or Javascript), build web services and have relevant Lead, SRE and DevOps experience.
+I'm a software engineer with relevant back-end, tech lead, SRE and DevOps experience.
 
 **DevOps** and **Automation** enthusiast
 
+- :earth_americas: [laaraujo.dev](https://laaraujo.dev)
 - :email: lautaroarielaraujo@gmail.com
-- :earth_americas: https://laaraujo.dev
-- :necktie: https://www.linkedin.com/in/laaraujo/
+- :necktie: [linkedin.com/in/laaraujo](https://www.linkedin.com/in/laaraujo/)
 
 Adopt a pet, it will make you happier :dog2: :cat2: 
