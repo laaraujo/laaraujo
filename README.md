@@ -1,6 +1,6 @@
 ## Just a dev
 
-I'm a software engineer with relevant back-end, DevOps and Tech Lead experience.
+I'm a software engineer with relevant back-end, DevOps, fullstack and Tech Lead experience.
 
 - :earth_americas: [laaraujo.dev](https://laaraujo.dev)
 - :email: lautaroarielaraujo@gmail.com
